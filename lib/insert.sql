@@ -1,1 +1,8 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Paul', 4, 'M', 'Red', 'Timid', 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Pooh', 2, 'M', 'Orange', 'Timid', 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Paul', 4, 'M', 'Red', 'Timid', 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Paul', 4, 'M', 'Red', 'Timid', 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Paul', 4, 'M', 'Red', 'Timid', 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Paul', 4, 'M', 'Red', 'Timid', 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Paul', 4, 'M', 'Red', 'Timid', 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Paul', 4, 'M', 'Red', 'Timid', 1)
